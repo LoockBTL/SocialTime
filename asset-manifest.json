@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SocialTime/static/css/main.c2cab247.css",
+    "main.js": "/SocialTime/static/js/main.b5c88c2d.js",
+    "index.html": "/SocialTime/index.html",
+    "static/media/heart-svgrepo-com.svg": "/SocialTime/static/media/heart-svgrepo-com.b6a415076023cb4ed0609c425d57769a.svg",
+    "main.c2cab247.css.map": "/SocialTime/static/css/main.c2cab247.css.map",
+    "main.b5c88c2d.js.map": "/SocialTime/static/js/main.b5c88c2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.b5c88c2d.js"
+  ]
+}
