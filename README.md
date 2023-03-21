@@ -1,6 +1,6 @@
 ## Info
 
-An example of a developed social network. In the example, a number of features are missing due to the lack of a backend component
+The social network is a pet project aimed at providing a platform for people to connect and interact with each other in a more meaningful and authentic way. Unlike other social networks that rely on algorithms and targeted advertising to keep users engaged, this social network is designed to prioritize genuine interactions and connections between users.
 
 ## Tech Stack
 
